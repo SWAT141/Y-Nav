@@ -51,7 +51,7 @@
 
 ### 1. 一键部署到 Cloudflare Pages
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yml2213/Y-Nav)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SWAT141/Y-Nav)
 
 - 点击按钮后按提示授权 GitHub 与 Cloudflare
 - 选择你的 GitHub 账号，Cloudflare 会自动创建 Pages 项目
